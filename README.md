@@ -10,7 +10,7 @@
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/Screenshot(27).png)
+![Home Page](screenshots/home.png)
 
 ### 🏡 Listings
 
