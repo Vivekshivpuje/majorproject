@@ -14,7 +14,7 @@
 
 ### 🏡 Listings
 
-![Listings](screenshots/listings.png)
+![Listings]([screenshots/listings.png](https://github.com/Vivekshivpuje/majorproject/blob/main/screenshots/Screenshot%20(28).png))
 
 ### 📄 Listing Details
 
