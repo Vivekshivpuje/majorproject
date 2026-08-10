@@ -105,6 +105,6 @@ This project demonstrates practical experience in:
 
 ##Full Stack Developer | MERN Stack
 
-**[GitHub](YOUR_GITHUB_PROFILE_LINK) ** [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)
+**[GitHub](https://github.com/Vivekshivpuje) ** [LinkedIn](https://www.linkedin.com/in/vivek-shivpuje-a553822a3)
 
 ⭐ *Built as a portfolio project to demonstrate full-stack development skills.*
