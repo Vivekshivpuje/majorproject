@@ -99,8 +99,6 @@ This project demonstrates practical experience in:
 
 ## 👨‍💻 Developer
 
-## 👨‍💻 Developer
-
 **Vivek**
 
 ##Full Stack Developer | MERN Stack
