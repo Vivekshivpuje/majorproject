@@ -26,7 +26,7 @@
 
 ### ⭐ Reviews & Ratings
 
-![Reviews](screenshots/reviews.png)
+![Reviews](https://github.com/Vivekshivpuje/majorproject/blob/main/screenshots/Screenshot%20(31).png)
 
 ## ✨ Key Features
 
