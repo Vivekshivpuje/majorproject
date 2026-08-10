@@ -60,7 +60,7 @@ This project demonstrates practical experience in:
 
 ## 👨‍💻 Developer
 
-**Rohit**
+**Vivek**
 Full Stack Developer
 
 ⭐ *Built as a portfolio project to demonstrate full-stack development skills.*
