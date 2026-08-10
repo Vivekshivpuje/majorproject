@@ -22,7 +22,7 @@
 
 ### 🔐 Authentication
 
-![Authentication](screenshots/login.png)
+![Authentication](https://github.com/Vivekshivpuje/majorproject/blob/main/screenshots/Screenshot%20(30).png)
 
 ### ⭐ Reviews & Ratings
 
