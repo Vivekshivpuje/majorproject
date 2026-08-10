@@ -1,6 +1,6 @@
 # 🌍 Wanderlust – Airbnb Rental Platform
 
-> A full-stack web application for exploring, creating, and reviewing travel listings.
+>A full-stack property listing web application built with Node.js, Express.js, MongoDB, Mongoose, and EJS. Users can create, view, edit, and delete property listings through a simple web interface.
 
 ## 🚀 Live Demo
 
@@ -37,6 +37,13 @@
 * Location/map integration
 * Responsive user interface
 * Secure MongoDB data management
+* Create new property listings
+*Edit existing listings
+*Delete listings
+*MongoDB database integration
+*Server-side rendering using EJS
+*RESTful CRUD routes
+*Automatic default image for listings
 
 ## 🛠️ Technologies
 
@@ -46,6 +53,24 @@
 **Authentication:** Passport.js
 **Cloud:** Cloudinary
 **Validation:** Joi
+
+Project Structure
+wanderlust/
+├── app.js
+├── models/
+│   └── listing.js
+├── views/
+│   └── listings/
+│       ├── index.ejs
+│       ├── new.ejs
+│       ├── show.ejs
+│       └── edit.ejs
+├── init/
+│   ├── data.js
+│   └── index.js
+├── package.json
+└── README.md
+
 
 ## 💡 Project Highlights
 
@@ -58,9 +83,28 @@ This project demonstrates practical experience in:
 * Cloud image storage
 * Form validation and error handling
 
+
+##⚙️ Run Locally
+*git clone <your-repository-url>
+*cd wanderlust
+*npm install
+
+**Make sure MongoDB is running locally, then start the server:
+
+*node app.js
+
+*Open:
+
+**http://localhost:8080/listings
+
+## 👨‍💻 Developer
+
 ## 👨‍💻 Developer
 
 **Vivek**
-Full Stack Developer
+
+##Full Stack Developer | MERN Stack
+
+**[GitHub](YOUR_GITHUB_PROFILE_LINK) ** [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)
 
 ⭐ *Built as a portfolio project to demonstrate full-stack development skills.*
