@@ -10,7 +10,7 @@
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/Vivekshivpuje/majorproject/blob/main/screenshots/Screenshot%20(27).png)
 
 ### 🏡 Listings
 
