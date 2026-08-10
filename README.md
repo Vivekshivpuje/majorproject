@@ -18,7 +18,7 @@
 
 ### 📄 Listing Details
 
-![Listing Details](screenshots/details.png)
+![Listing Details]([screenshots/details.png](https://github.com/Vivekshivpuje/majorproject/blob/main/screenshots/Screenshot%20(29).png))
 
 ### 🔐 Authentication
 
